@@ -5,7 +5,7 @@
 > View : 컨트롤러를 통해 모델로 부터 받은 데이터를 시각화
 > Controller : 요청을 통해 데이터를 받고 다른 부분으로 전달
 
-![alt text](image/MVC.png)
+![alt text](image/mvc.png)
 사용자가 Controller 요청 -> 데이터 생성, 갱신, 삭제 등 Model 조작 -> 결과를 Controller에 전달 -> View가 다시 시각화하여 사용자에게 결과 보여줌
 
 > View 와 Controller는 Model의 의존
