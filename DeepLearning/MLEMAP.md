@@ -6,7 +6,7 @@
 - Density function이 θ 로 parameterize된 어떤 분포의 family라고 가정
 - 그러면 Observation X가 주어진다면, θ의 값만 알수 있다면 f(X|θ)를 계산 가능
 - <b> Likelihood 정의 : L(θ;  x<sub>1</sub>, x<sub>2</sub>, x<sub>3</sub>, ... , x<sub>n</sub>) = L(θ; X) = f(X|θ) = f(x<sub>1</sub>, x<sub>2</sub>, x<sub>3</sub>, ... , x<sub>n</sub>|θ) </b>
--<b> Maximum Likelihood Estimation (MLE) - θ^ : Likelihood를 최대로 만드는 값을 선택
+-<b> Maximum Likelihood Estimation (MLE) - θ^ : Likelihood를 최대로 만드는 값을 선택 <br />
 ![alt text](image/MLE.PNG)
 
 MLE - Ex) 
