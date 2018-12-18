@@ -10,10 +10,10 @@
 ![alt text](image/MLE.PNG)
 
 MLE - Ex) 
-바닥에 떨어진 머리카락의 길이(x)을 보고 남녀인지 성별(y)을 판단하는 문제 
-남자를 y<sub>1</sub>이고 여자는 y<sub>2</sub>로 정했을 때
-P(x|y<sub>1</sub>) = 남자에게서 주어진 머리카락의 길이가 나올 확률
-P(x|y<sub>2</sub>) = 여자에게서 주어진 머리카락의 길이가 나올 확률
+바닥에 떨어진 머리카락의 길이(x)을 보고 남녀인지 성별(y)을 판단하는 문제 <br />
+남자를 y<sub>1</sub>이고 여자는 y<sub>2</sub>로 정했을 때 <br />
+P(x|y<sub>1</sub>) = 남자에게서 주어진 머리카락의 길이가 나올 확률 <br />
+P(x|y<sub>2</sub>) = 여자에게서 주어진 머리카락의 길이가 나올 확률 <br />
 
 ## Maximum a Posteriori Estimation (MAP)
 
