@@ -9,7 +9,7 @@
 -<b> Maximum Likelihood Estimation (MLE) - θ^ : Likelihood를 최대로 만드는 값을 선택 <br /> </b>
 ![alt text](image/MLE.PNG)
 
-MLE - Ex) 
+MLE - Ex) <br />
 바닥에 떨어진 머리카락의 길이(x)을 보고 남녀인지 성별(y)을 판단하는 문제 <br />
 남자를 y<sub>1</sub>이고 여자는 y<sub>2</sub>로 정했을 때 <br />
 P(x|y<sub>1</sub>) = 남자에게서 주어진 머리카락의 길이가 나올 확률 <br />
