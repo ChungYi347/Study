@@ -67,3 +67,4 @@ P(T=0.5|E=0.7) = P(E=0.7|T=0.5) P(T=0.5) / P(E=0.7) 의 수식을 세울 수 있
 P(T=x|E=0.7) = P(E=0.7|T=x) P(T=x) / P(E=0.7)가 되고 이를 최대값을 구하는 과정이 Maximum a Posteriori Estimation이다.
 
 SanghyukChun's Blog - http://sanghyukchun.github.io/58/ 참고
+베이즈 정리와 MLE, MAP - http://databaser.net/moniwiki/pds/BayesianStatistic/%EB%B2%A0%EC%9D%B4%EC%A6%88_%EC%A0%95%EB%A6%AC%EC%99%80_MLE.pdf 참고
