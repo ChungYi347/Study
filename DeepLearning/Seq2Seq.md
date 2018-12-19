@@ -3,7 +3,7 @@
 크게 <b> 인코더(Encoder)와 디코더(Decoder) </b> 두 부분으로 나뉩니다. <br />
 <b> 인코더 (Encoder)는 Source 정보를 압축 </b> ex) 번역기 - 영어 <br />
 <b> 디코더 (Decoder)는 Target 정보를 출력 </b> ex) 번역기 - 한국어 <br /> <br />
-아래 그림처럼 Good Morning! 이라는 단어를 인코더(Encoder) 넣으면 Feature를 압축 <br />
+아래 그림처럼 Good Morning! 이라는 단어를 인코더(Encoder) 넣으면 Feature를 압축합니다. <br />
 디코더(Decoder)는 좋은 아침입니다! 라는 문장을 출력합니다. <br />
 
 ![alt text](image/seq2seq.PNG) <br />
