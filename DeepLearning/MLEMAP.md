@@ -11,6 +11,7 @@ Maximum Likelihood Estimation와 Maximum a Posteriori Estimation은 기초적인
 <b> Likelihood 정의 : L(θ;  x<sub>1</sub>, x<sub>2</sub>, x<sub>3</sub>, ... , x<sub>n</sub>) = L(θ; X) = f(X|θ) = f(x<sub>1</sub>, x<sub>2</sub>, x<sub>3</sub>, ... , x<sub>n</sub>|θ) = f(x<sub>1</sub>|θ)f(x<sub>2</sub>|θ). . .f(x<sub>2</sub>|θ) = ∏<sup>n</sup><sub>i=1</sub>f(x<sub>i</sub>|θ)</b>
 -  포아송 분포일 경우
 >  f(x|λ) = \\( x(t)=\frac{-b\pm \sqrt{{b}^{2}-4ac}}{2a} \\)  
+> $$ \frac{X}{Y} $$
 
 <b> Maximum Likelihood Estimation (MLE) - θ^ : Likelihood를 최대로 만드는 값을 선택 <br /> </b>
 ![alt text](image/MLE.PNG)
