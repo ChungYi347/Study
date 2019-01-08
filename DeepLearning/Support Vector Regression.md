@@ -1,6 +1,5 @@
 
 # Support Vector Regression 설명
------
 
 ## 0. Kernal Function
 ### 0.1 통계적 추정 : 관측된 데이터로 부터 전체 모집단을 추정하는 방법
@@ -36,11 +35,10 @@ h : 커널 함수의 bandwidth 파라미터 (High h : 완만한 형태, Low h : 
 원점 중심의 대칭
 
 - 함수 예제
-![alt text](image/kernel function.PNG)
+![alt text](image/kernelFunction.PNG)
 
 참고 : http://darkpgmr.tistory.com/147
 
-----
 
 ## 1. Support Vector Regression
 
@@ -63,7 +61,7 @@ w : 특정 공간에서 가중치 백터, w<sup>T</sup> : w의 전치 행렬, b 
 
 참고 : Noise Removal using Support Vector Regression in Noisy Document Images
 
-----
+
 
 
 
