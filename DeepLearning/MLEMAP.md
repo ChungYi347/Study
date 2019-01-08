@@ -9,9 +9,9 @@ Maximum Likelihood Estimation와 Maximum a Posteriori Estimation은 기초적인
 
 ## 1. Bayesian Theorem
 ### Bayesian Theorem 요소
-- 사전 확률 (Prior Probability)  : 이미 알고 있는 확률 (P(A) 또는 P(B))
+- 사전 확률 (Prior Probability)  : 이미 알고 있는 확률 (P(A) 또는 P(B)) - 현재 가지고 있는 정보를 기초로하여 정한 초기 확률
 - 우도 (Likelihood Probability) : 이미 알고 있는 사건(들)이 발생되었을 때, 다른 사건이 발생할 확률 (P(B|A))
-- 사후확률 (Posteriori Probability) : 사전확률과 우도확률을 통해서 알게되는 조건부 확률 P(A|B)
+- 사후확률 (Posteriori Probability) : 사전확률과 우도확률을 통해서 알게되는 조건부 확률 P(A|B) - 사건 발생 후에 어떤 원인으로부터 일어날 것이라고 생각되어지는 확률
 
 P(A|B) = P(B|A)P(A) / P(B)
 
