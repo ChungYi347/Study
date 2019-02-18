@@ -17,7 +17,7 @@
 ![alt text](image/seq2seq_train.PNG) <br />
 
 ### Seq2Seq Video
-![Seq2Seq](seq2seq.mp4)
+![Seq2Seq](video/seq2seq.mp4)
 처음에 input으로 시작하여 각 time step 마다 이전 hidden state와 input을 받아서 다음 layer로 넘어간다. <br />
 Encoder가 끝난 후 Encoder의 마지막 hidden state가 Decoder로 들어가고 각 step에서의 Output을 뱉는다. <br />
 
