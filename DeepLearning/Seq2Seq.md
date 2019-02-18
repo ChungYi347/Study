@@ -16,10 +16,16 @@
 - \<go\>와 \<eos\>는 정답의 시작과 끝은 알리는 기호입니다. <br />
 ![alt text](image/seq2seq_train.PNG) <br />
 
+### Seq2Seq Video
+![Seq2Seq](seq2seq.mp4)
+처음에 input으로 시작하여 각 time step 마다 이전 hidden state와 input을 받아서 다음 layer로 넘어간다. <br />
+Encoder가 끝난 후 Encoder의 마지막 hidden state가 Decoder로 들어가고 각 step에서의 Output을 뱉는다. <br />
+
 ### 테스트 (예측) 과정 <br />
 아래 그림과 같이 코더 (Encoder)의 출력 값과 학습과정과 다르게 정답이 없기 때문에 시작을 알리는 \<go\>를 넣습니다. <br />
 그러면 모델이 첫 결과물을 출력하고 이를 바탕으로 다음 입력으로 넣습니다. <br />
 마지막으로는 끝을 알리는 \<eos\>를 출력합니다. <br />
 ![alt text](image/seq2seq_train.PNG)
+
 
 
