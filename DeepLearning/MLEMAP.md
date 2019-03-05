@@ -35,6 +35,9 @@ L(θ;  x<sub>1</sub>, x<sub>2</sub>, x<sub>3</sub>, ... , x<sub>n</sub>) = L(θ;
 <b> Maximum Likelihood Estimation (MLE) - θ^ : Likelihood를 최대로 만드는 값을 선택 <br /> </b>
 ![alt text](image/MLE.PNG)
 
+Distribution이 Normal Distribution 일 경우, 평균과 분산을 바꿔가면서 각 데이터 포인터에 해당 되는 확률 값이 가장 커지는 distribution을 찾는다.
+![alt text](image/mle_normal.PNG)
+
 ### Example of Maximum Likelihood Estimation - 동전 던지기
  100번의 동전을 던졌을 때 앞면이 56번 나왔다면 '동전을 던졌을 때 앞면이 나올 확률' 을 구하는 예제
  > P(H) : 동전을 던졌을 때 앞면이 나올 확률
